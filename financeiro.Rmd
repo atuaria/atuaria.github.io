@@ -8,6 +8,52 @@ source("setup_knitr.R")
 
 <br>
 
+# Faça uma doação
+
+Gosta do trabalho da Liga de Ciências Atuariais? Faça uma doação e ajude-nos a continuar.
+
+<br>
+
+### Depósito
+
+<br>
+
+Banco:
+
+Agência:
+
+Conta:
+
+Operação:
+
+Nome:
+
+<br>
+
+### Doe com PagSeguro
+
+<br> 
+
+<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+<input type="hidden" name="currency" value="BRL" />
+<input type="hidden" name="receiverEmail" value="pablorabelo@live.com" />
+<input type="hidden" name="iot" value="button" />
+<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-azul-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+</form>
+<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+<br>
+
+### Padrim
+
+Nos apoie pela plataforma de financiamento coletivo Padrim.
+
+(em breve)
+
+<br>
+
 # Mensalidade da LCA
 
 Pague sua mensalidade em dia, evite multas.
@@ -31,6 +77,8 @@ Conta:
 Operação:
 
 Nome:
+
+Observação: Envie uma cópia do comprovante de depósito para financas.lca@gmail.com informando seu nome e instituição.
 
 <br>
 
@@ -66,7 +114,7 @@ https://picpay.me/atuaria
 
 <br>
 
-#### Fale conosco
+## Fale conosco
 
 - financas.lca@gmail.com
 - lca.faleconosco@gmail.com
