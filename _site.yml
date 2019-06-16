@@ -1,0 +1,89 @@
+name: "Liga de Ciências Atuariais"
+output_dir: "docs"
+exclude: ["README.md", "\\.sh", "cache", "scripts_teste"]
+output:
+  html_document:
+    theme: flatly
+    highlight: default
+    number_sections: false
+    toc: true
+    toc_depth: 4
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    includes:
+      in_header: analytics.html
+      after_body: footer.html
+navbar:
+  title: "LCA"
+  left:
+    - text: "Institucional"
+      menu:
+      - text: "Sobre nós"
+        href: 
+      - text: "Diretoria"
+        href: 
+      - text: "Conselhos"
+        href: 
+      - text: "Estatuto da LCA"
+        href: 
+      - text: "Regimentos"
+        href: 
+      - text: "Atas"
+        href: 
+      - text: "Ofícios"
+        href: 
+      - text: "Membros"
+        href: 
+      - text: "Ex-membros"
+        href: 
+      - text: "Colaboradores"
+        href: 
+    - text: "Projetos"
+      menu:
+      - text: "Atuária em Foco"
+        href: 
+      - text: "Atuária na Escola"
+        href: 
+      - text: "Grupo de Estudos Atuariais"
+        href: 
+      - text: "Informativo Atuarial"
+        href:
+      - text: "Lista de orientações"
+        href: 
+      - text: "Minuto Atuarial"
+        href:
+    - text: "ENEAT"
+      menu:
+      - text: "I ENEAT"
+        href: 
+      - text: "II ENEAT"
+        href: 
+      - text: "III ENEAT"
+        href: 
+      - text: "----------"
+      - text: "VI ENEAT"
+        href: 
+    - text: "Publicações"
+      menu:
+      - text: "Portal Halley"
+        href: https://atuaria.github.io/portalhalley/
+      - text: "Livro 'Passe no IBA'"
+        href: https://lnkd.in/d9DYB2D
+      - text: "Blog da LCA"
+        href: https://blogdalca.wordpress.com
+    - text: "Processo Seletivo"
+      menu:
+      - text: "Editais"
+        href: 
+      - text: "Inscreva-se"
+        href: 
+      - text: "Resultados"
+        href: 
+    - text: "Fale Conosco"
+      menu:
+      - text: "Formulário"
+        href: 
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/atuaria/
