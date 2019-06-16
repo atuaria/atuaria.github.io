@@ -85,5 +85,7 @@ navbar:
       - text: "Formulário"
         href: 
   right:
+    - icon: fa-dollar-sign fa-lg
+      href: financeiro.html
     - icon: fa-github fa-lg
       href: https://github.com/atuaria/

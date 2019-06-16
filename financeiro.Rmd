@@ -1,0 +1,72 @@
+---
+title: "Apoie a LCA"
+---
+
+```{r setup, include=FALSE}
+source("setup_knitr.R")
+```
+
+<br>
+
+# Mensalide da LCA
+
+Pague sua mensalidade em dia, evite multas.
+
+Valor da mensalidade: R$10,00
+
+Para pagementos presenciais realizados na sede da LCA até o dia 15 de todo mês, há um desconto no valor de R$3,00.
+
+<br>
+
+### Depósito
+
+<br>
+
+Banco:
+
+Agência:
+
+Conta:
+
+Operação:
+
+Nome:
+
+<br>
+
+### Pagamento recorrente no cartão de crédito
+
+Há um adicional de adesão no valor de R$5,00.
+
+<br>
+
+<!-- INICIO FORMULARIO BOTAO PAGSEGURO: NAO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+<form action="https://pagseguro.uol.com.br/pre-approvals/request.html" method="post">
+<input type="hidden" name="code" value="22D216FF6868D63AA406CFBE7ABE8E3F" />
+<input type="hidden" name="iot" value="button" />
+<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/209x48-assinar-azul-assina.gif" name="submit" alt="Pague com PagSeguro - É rápido, grátis e seguro!" width="209" height="48" />
+</form>
+<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+<br>
+
+### Pague no Boleto
+
+Há um adicional paga gerar o boleto no valor de R$2,00.
+
+<br>
+
+<!-- INICIO DO BOTAO PAGSEGURO --><a href="https://pag.ae/7U-xypu68/button" target="_blank" title="Pagar com PagSeguro"><img src="https://assets.pagseguro.com.br/ps-integration-assets/botoes/pagamentos/205x30-pagar-azul.gif" alt="Pague com PagSeguro - é rápido, grátis e seguro!" /></a><!-- FIM DO BOTAO PAGSEGURO -->
+
+<br>
+
+### Pague com PicPay
+
+https://picpay.me/atuaria
+
+<br>
+
+#### Fale conosco
+
+- financas.lca@gmail.com
+- lca.faleconosco@gmail.com
