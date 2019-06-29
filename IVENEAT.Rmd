@@ -7,9 +7,36 @@ source("setup_knitr.R")
 ```
 
 <br>
+<br>
 
 <center>
-# SUBMISSÃO DE TRABALHOS
+# INSCRIÇÕES 
+</center>
+
+
+<br>
+
+O Encontro Nacional de Estudantes de Atuária surgiu em 2002, organizado por alunos da Universidade Federal de Minas Gerais.
+
+Sua segunda edição aconteceu em 2005, também na UFMG.
+
+Após 13 anos, a Liga de Ciências Atuariais organizou novamente o Encontro Nacional de Estudantes de Atuária, agora em sua terceira edição. Foram 5 dias de atividades intensas na Universidade Federal de Alfenas - Campus Avançado de Varginha.
+
+Este ano, a LCA está trabalhando para que a quarta edição do ENEAT seja um sucesso.
+
+Serão 3 dias de muito compartilhamento na cidade de Rio de janeiro.
+
+<br>
+
+<center>
+<a href="https://www.e-inscricao.com/lca/eneat"target="_blank">**INSCREVA-SE**</a>
+</center>
+
+<br>
+<br>
+
+<center>
+##SUBMISSÃO DE TRABALHOS
 </center>
 
 <br>
