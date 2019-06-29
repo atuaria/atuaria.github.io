@@ -85,6 +85,8 @@ navbar:
       - text: "Formulário"
         href: 
   right:
+    - text: "IBA"
+      href: http://www.atuarios.org.br/
     - icon: fa-dollar-sign fa-lg
       href: financeiro.html
     - icon: fa-github fa-lg
