@@ -9,10 +9,8 @@ source("setup_knitr.R")
 <br>
 <br>
 
-<center>
-# INSCRIÇÕES 
-</center>
 
+# INSCRIÇÕES 
 
 <br>
 
@@ -35,9 +33,8 @@ Serão 3 dias de muito compartilhamento na cidade de Rio de janeiro.
 <br>
 <br>
 
-<center>
-##SUBMISSÃO DE TRABALHOS
-</center>
+
+# SUBMISSÃO DE TRABALHOS
 
 <br>
 
