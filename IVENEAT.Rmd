@@ -12,6 +12,8 @@ source("setup_knitr.R")
 # SUBMISSÃO DE TRABALHOS
 </center>
 
+<br>
+
 Está aberto o período de submissão de trabalhos acadêmicos para o IV Encontro Nacional de Estudantes de Atuária, não fique de fora!
 
 O resumo expandido no formato PDF com tamanho mínimo de 2 páginas e máximo de 5 páginas deverá ser enviado pelo email lca.eneat@gmail.com com assunto **Submissão IV ENEAT** até o dia 1 de agosto de 2019.
@@ -41,10 +43,24 @@ Os temas de interesse incluem, mas não se limitam a:
 
 O tema abordado em seu trabalho deverá ser indicado no corpo do e-mail, bem como o nome completo do submetedor e meio alternativo de contato.
 
+<br>
+
 **DATAS IMPORTANTES**
 
 - Fim do período de inscrições: 1 de agosto de 2019
 - Resultado das avaliações dos trabalhos: 20 de agosto de 2019
+
+<br>
+
+**MODELO DE BANNER**
+
+O modelo abaixo é uma sugestão, seu uso é de livre vontade dos autores.
+
+**Os cabeçalhos e rodapés dos banners deverão, obrigatoriamente, seguir o modelo do banner.**
+
+- <a href="https://atuaria.github.io/PDF/Modelo_Banner.pdf"target="_blank">**Modelo sugerido**</a>
+
+- <a href="https://atuaria.github.io/ENEAT/Modelo Banner.zip"target="_blank">**Download do modelo no formato LaTeX**</a>
 
 <br>
 
