@@ -1,0 +1,54 @@
+---
+title: "IV ENCONTRO NACIONAL DE ESTUDANTES DE ATUÁRIA"
+---
+
+```{r setup, include=FALSE}
+source("setup_knitr.R")
+```
+
+<br>
+
+<center>
+# SUBMISSÃO DE TRABALHOS
+</center>
+
+Está aberto o período de submissão de trabalhos acadêmicos para o IV Encontro Nacional de Estudantes de Atuária, não fique de fora!
+
+O resumo expandido no formato PDF com tamanho mínimo de 2 páginas e máximo de 5 páginas deverá ser enviado pelo email lca.eneat@gmail.com com assunto **Submissão IV ENEAT** até o dia 1 de agosto de 2019.
+
+- <a href="https://atuaria.github.io/PDF/Resumo_expandido.pdf"target="_blank">**Modelo obrigatório**</a>
+
+- <a href="https://atuaria.github.io/ENEAT/Modelos de Resumos.zip"target="_blank">**Download do modelo no formato LaTeX**</a>
+
+A avaliação será feita por, no mínimo, dois avaiadores que atribuirão os conceitos **aprovado**, **aprovado com correção** ou **reprovado**. Haverá um curto período para correção do resumo.
+
+**O período de submissões termina no dia 1 de agosto de 2019. Não haverá prorrogação deste prazo.**
+
+Os organizadores encorajam a submissão de artigos de pesquisa originais, relatórios de progresso de pesquisa e propostas de pesquisas futuras.
+
+Os temas de interesse incluem, mas não se limitam a:
+
+- História da Atuária
+- Previdência
+- Saúde Suplementar
+- Seguros e Resseguros
+- Demografia
+- Modelagem preditiva
+- Análise de Riscos e Ruína
+- Big Data
+- Análise estatística
+- Inovação e tecnologia
+
+O tema abordado em seu trabalho deverá ser indicado no corpo do e-mail, bem como o nome completo do submetedor e meio alternativo de contato.
+
+**DATAS IMPORTANTES**
+
+- Fim do período de inscrições: 1 de agosto de 2019
+- Resultado das avaliações dos trabalhos: 20 de agosto de 2019
+
+<br>
+
+## Fale conosco
+
+- lca.eneat@gmail.com
+- lca.faleconosco@gmail.com
