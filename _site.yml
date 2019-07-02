@@ -63,7 +63,7 @@ navbar:
         href: 
       - text: "----------"
       - text: "VI ENEAT"
-        href: 
+        href: iveneat.html
     - text: "Publicações"
       menu:
       - text: "Portal Halley"
