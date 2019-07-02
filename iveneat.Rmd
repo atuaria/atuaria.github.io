@@ -1,10 +1,16 @@
----
-title: "IV ENCONTRO NACIONAL DE ESTUDANTES DE ATUÁRIA"
----
 
 ```{r setup, include=FALSE}
 source("setup_knitr.R")
 ```
+
+<br>
+<br>
+
+<center>
+
+<img width="500px" src="img/eneat_provisorio.png">
+
+</center>
 
 <br>
 <br>
