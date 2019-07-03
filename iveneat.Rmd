@@ -28,7 +28,9 @@ Após 13 anos, a Liga de Ciências Atuariais organizou novamente o Encontro Naci
 
 Este ano, a LCA está trabalhando para que a quarta edição do ENEAT seja um sucesso.
 
-Serão 3 dias de muito compartilhamento na cidade de Rio de janeiro.
+Serão 3 dias de muita troca de conhecimento e inovação na cidade do Rio de janeiro.
+
+Nos vemos nos dias 26, 27 e 28 de setembro!
 
 <br>
 
@@ -92,11 +94,11 @@ Trabalhos aceitos e não apresentados não serão publicados nos anais do IV ENE
 <br>
 
 
-# LOCAL
+# LOCAL E DATA
 
 <br>
 
-O IV Encontro Nacional de Estudantes de Atuária será realizado no Auditório Professor Carlos Alberto Del Castillo no edifício Rio Datacentro da Pontifícia Universidade Católica do Rio de Janeiro, na Rua Marquês de São Vicente, 225, Gávea - Rio de janeiro, RJ.
+O IV Encontro Nacional de Estudantes de Atuária será realizado nos dias 26, 27 e 28 de setembro de 2019 no Auditório Professor Carlos Alberto Del Castillo no edifício Rio Datacentro da Pontifícia Universidade Católica do Rio de Janeiro, na Rua Marquês de São Vicente, 225, Gávea - Rio de janeiro, RJ.
 
 <br>
 <br>
@@ -107,18 +109,18 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado no Auditório P
 
 **PALESTRANTES CONFIRMADOS:**
 
-- Beatriz Bernardino
-- Henrique Mazieiro
-- Italoema Sanglard
-- Letícia Doherty
-- Luísa Terra
-- Máris Caroline Gosmman
-- Narcisa Santos
-- Nikolai Valtchev Kolev
-- Paulo Pereira Ferreira
-- Rafael Nasser
-- Raniere Ramos
-- Roberto Westenberger
+- [Beatriz de Souza Bernardino](http://lattes.cnpq.br/5461147196661201) - [LinkedIn](https://www.linkedin.com/in/beatriz-de-souza-bernardino-b0101169/)
+- Henrique Mazieiro - [LinkedIn](https://www.linkedin.com/in/henriquemazieiro/)
+- Italoema Sanglard - [LinkedIn](https://www.linkedin.com/in/italoema-sanglard-762367157/)
+- Letícia Doherty - [LinkedIn](https://www.linkedin.com/in/leticia-doherty/)
+- [Profª. Drª. Luísa Pimenta Terra](http://lattes.cnpq.br/8370361542589630) - [LinkedIn](https://www.linkedin.com/in/luisa-terra-b8146256/)
+- [Profª. Me. Máris Caroline Gosmman](http://lattes.cnpq.br/6150255901035347) - [LinkedIn](https://www.linkedin.com/in/m%C3%A1ris-caroline-gosmann-miba-msc-mba-16308b161/)
+- [Profª. Drª. Narcisa Maria Gonçalves dos Santos](http://lattes.cnpq.br/8007781497694239) - [LinkedIn](https://www.linkedin.com/in/narcisa-santos-4a419824/)
+- [Prof. Dr. Nikolai Valtchev Kolev](http://lattes.cnpq.br/2718343924989492) - [LinkedIn](https://www.linkedin.com/in/nikolai-kolev-89404255/)
+- [Prof. Me. Paulo Pereira Ferreira](http://lattes.cnpq.br/8656813220459898) - [LinkedIn](https://www.linkedin.com/in/paulo-ferreira-a418a54b/)
+- [Prof. Dr. Rafael Barbosa Nasser](http://lattes.cnpq.br/9503735014198416) - [LinkedIn](https://www.linkedin.com/in/rnasser/)
+- Raniere Ramos - [LinkedIn](https://www.linkedin.com/in/raniereramos/)
+- [Prof. Dr. Roberto Westenberger](http://lattes.cnpq.br/5762769221500857) - [LinkedIn](https://www.linkedin.com/in/westenr/)
 
 <br>
 <br>
@@ -126,10 +128,14 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado no Auditório P
 # PATROCINADORES
 
 <br>
+<br>
+<br>
 
 <center>
 
 <a href="http://www.puc-rio.br"target="_blank"><img width="200px" src="img/puc-rio-logo.gif"></a>
+
+<br>
 
 <a href="http://www.puc-rio.br/ecoa"target="_blank">ECOA PUC-Rio</a>
 
@@ -138,17 +144,40 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado no Auditório P
 </center>
 
 <br>
+<br>
+<br>
+<br>
 
 **COTA DIAMANTE**
 
+<br>
+
+$-$
+
+<br>
+<br>
 <br>
 
 **COTA OURO**
 
 <br>
 
+$-$
+
+<br>
+<br>
+<br>
+
 **COTA PRATA**
 
+<br>
+<br>
+<br>
+
+$-$
+
+<br>
+<br>
 <br>
 
 **COTA BRONZE**
@@ -161,8 +190,8 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado no Auditório P
 
 </center>
 
-
-
+<br>
+<br>
 <br>
 
 **APOIO**
@@ -182,7 +211,24 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado no Auditório P
 <br>
 <br>
 
+## Seja um patrocinador
+
+<br>
+
+- Se interessou pelo evento? Deseja ser um patrocinador? Entre em contato com nosso setor financeiro pelo e-mail financas.lca@gmail.com para mais informações!
+
+- <a href="https://atuaria.github.io/PDF/Cotas de patrocínio.pdf"target="_blank">**Cotas de patrocínio**</a>
+
+- <a href="https://atuaria.github.io/PDF/Sponsorship quotas.pdf"target="_blank">**Sponsorship quotas**</a>
+
+<br>
+<br>
+
 ## Fale conosco
+
+<br>
+
+Dúvidas e sugestões? Entre em contato conosco!
 
 - lca.eneat@gmail.com
 - lca.faleconosco@gmail.com
