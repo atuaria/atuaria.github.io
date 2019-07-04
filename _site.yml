@@ -26,12 +26,14 @@ navbar:
       - text: "Conselhos"
         href: 
       - text: "Estatuto da LCA"
-        href: 
+        href: estatuto.html
       - text: "Regimentos"
         href: 
       - text: "Atas"
         href: 
       - text: "Ofícios"
+        href: 
+      - text: "Portarias"
         href: 
       - text: "Membros"
         href: 
