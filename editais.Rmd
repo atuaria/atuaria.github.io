@@ -1,0 +1,28 @@
+---
+title: "Editais LCA"
+output:
+  html_document:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+source("setup_knitr.R")
+```
+
+<br></br>
+
+## Faça parte da Liga de Ciências Atuariais
+
+<br></br>
+
+**Confira os editais de seleção em andamento:**
+<br></br>
+
+- <a href="https://atuaria.github.io/PDF/Edital0032017.pdf"target="_blank">**Edital Nº003/2017 - PROCESSO SELETIVO CONTINUADO**</a>
+
+- <a href="https://atuaria.github.io/PDF/Edital0022019.pdf"target="_blank">**Edital Nº002/2019**</a>
+
+<br></br>
+<br></br>
+
+

@@ -62,7 +62,7 @@ navbar:
       - text: "III ENEAT"
         href: 
       - text: "----------"
-      - text: "VI ENEAT"
+      - text: "IV ENEAT"
         href: iveneat.html
     - text: "Publicações"
       menu:
@@ -75,7 +75,7 @@ navbar:
     - text: "Processo Seletivo"
       menu:
       - text: "Editais"
-        href: 
+        href: editais.html
       - text: "Inscreva-se"
         href: 
       - text: "Resultados"

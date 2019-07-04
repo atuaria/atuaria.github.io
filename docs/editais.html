@@ -11,7 +11,7 @@
 
 
 
-<title>Apoie a LCA</title>
+<title>Editais LCA</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,9 +19,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -182,107 +179,6 @@ $(document).ready(function () {
 
 
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3,h4",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = false;
-    options.smoothScroll = false;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
-
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-.tocify-subheader {
-  display: inline;
-}
-.tocify-subheader .tocify-item {
-  font-size: 0.95em;
-}
-
-</style>
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
-
-
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -415,92 +311,21 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Apoie a LCA</h1>
+<h1 class="title toc-ignore">Editais LCA</h1>
 
 </div>
 
 
-<p><br></p>
-<div id="faca-uma-doacao" class="section level1">
-<h1>Faça uma doação</h1>
-<p>Gosta do trabalho da Liga de Ciências Atuariais? Faça uma doação e ajude-nos a continuar.</p>
-<p><br></p>
-<div id="deposito" class="section level3">
-<h3>Depósito</h3>
-<p><br></p>
-<p>Banco:</p>
-<p>Agência:</p>
-<p>Conta:</p>
-<p>Operação:</p>
-<p>Nome:</p>
-<p><br></p>
-</div>
-<div id="doe-com-pagseguro" class="section level3">
-<h3>Doe com PagSeguro</h3>
-<p><br></p>
-<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
-<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="currency" value="BRL" /> <input type="hidden" name="receiverEmail" value="pablorabelo@live.com" /> <input type="hidden" name="iot" value="button" /> <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-azul-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-</form>
-<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-<p><br></p>
-</div>
-<div id="padrim" class="section level3">
-<h3>Padrim</h3>
-<p>Nos apoie pela plataforma de financiamento coletivo Padrim.</p>
-<p>(em breve)</p>
-<p><br></p>
-</div>
-</div>
-<div id="mensalidade-da-lca" class="section level1">
-<h1>Mensalidade da LCA</h1>
-<p>Pague sua mensalidade em dia, evite multas.</p>
-<p>Valor da mensalidade: R$10,00</p>
-<p>Para pagamentos presenciais realizados na sede da LCA até o dia 15 de cada mês, há um desconto no valor de R$3,00.</p>
-<p><br></p>
-<div id="deposito-1" class="section level3">
-<h3>Depósito</h3>
-<p><br></p>
-<p>Banco:</p>
-<p>Agência:</p>
-<p>Conta:</p>
-<p>Operação:</p>
-<p>Nome:</p>
-<p>Observação: Envie uma cópia do comprovante de depósito para <a href="mailto:financas.lca@gmail.com">financas.lca@gmail.com</a> informando seu nome e instituição.</p>
-<p><br></p>
-</div>
-<div id="pagamento-recorrente-no-cartao-de-credito" class="section level3">
-<h3>Pagamento recorrente no cartão de crédito</h3>
-<p>Há um adicional de adesão no valor de R$5,00.</p>
-<p><br></p>
-<!-- INICIO FORMULARIO BOTAO PAGSEGURO: NAO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<form action="https://pagseguro.uol.com.br/pre-approvals/request.html" method="post">
-<input type="hidden" name="code" value="22D216FF6868D63AA406CFBE7ABE8E3F" /> <input type="hidden" name="iot" value="button" /> <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/209x48-assinar-azul-assina.gif" name="submit" alt="Pague com PagSeguro - É rápido, grátis e seguro!" width="209" height="48" />
-</form>
-<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-<p><br></p>
-</div>
-<div id="pague-no-boleto" class="section level3">
-<h3>Pague no Boleto</h3>
-<p>Há um adicional paga gerar o boleto no valor de R$2,00.</p>
-<p><br></p>
-<!-- INICIO DO BOTAO PAGSEGURO -->
-<p><a href="https://pag.ae/7U-xypu68/button" target="_blank" title="Pagar com PagSeguro"><img src="https://assets.pagseguro.com.br/ps-integration-assets/botoes/pagamentos/205x30-pagar-azul.gif" alt="Pague com PagSeguro - é rápido, grátis e seguro!" /></a><!-- FIM DO BOTAO PAGSEGURO --></p>
-<p><br></p>
-</div>
-<div id="pague-com-picpay" class="section level3">
-<h3>Pague com PicPay</h3>
-<p><a href="https://picpay.me/atuaria" class="uri">https://picpay.me/atuaria</a></p>
-<p><br></p>
-</div>
-<div id="fale-conosco" class="section level2">
-<h2>Fale conosco</h2>
+<p><br></br></p>
+<div id="faca-parte-da-liga-de-ciencias-atuariais" class="section level2">
+<h2>Faça parte da Liga de Ciências Atuariais</h2>
+<p><br></br></p>
+<p><strong>Confira os editais de seleção em andamento:</strong> <br></br></p>
 <ul>
-<li><a href="mailto:financas.lca@gmail.com">financas.lca@gmail.com</a></li>
-<li><a href="mailto:lca.faleconosco@gmail.com">lca.faleconosco@gmail.com</a></li>
+<li><p><a href="https://atuaria.github.io/PDF/Edital0032017.pdf"target="_blank"><strong>Edital Nº003/2017 - PROCESSO SELETIVO CONTINUADO</strong></a></p></li>
+<li><p><a href="https://atuaria.github.io/PDF/Edital0022019.pdf"target="_blank"><strong>Edital Nº002/2019</strong></a></p></li>
 </ul>
-</div>
+<p><br></br> <br></br></p>
 </div>
 
 <center>
@@ -510,8 +335,6 @@ div.tocify {
 </center>
 
 
-</div>
-</div>
 
 </div>
 
