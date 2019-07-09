@@ -1,0 +1,24 @@
+---
+title: "Resultados - Processos Seletivos LCA"
+output:
+  html_document:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+source("setup_knitr.R")
+```
+
+<br></br>
+
+<br></br>
+
+**Confira os resultados dos editais de seleção em andamento:**
+<br></br>
+
+- <a href="https://atuaria.github.io/PDF/ResultadoEdital0022019.pdf"target="_blank">**Edital Nº002/2019 - RESULTADO FINAL**</a>
+
+<br></br>
+<br></br>
+
+

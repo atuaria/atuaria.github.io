@@ -81,7 +81,7 @@ navbar:
       - text: "Inscreva-se"
         href: 
       - text: "Resultados"
-        href: 
+        href: resultados.html
     - text: "Fale Conosco"
       menu:
       - text: "Formulário"
