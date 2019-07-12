@@ -11,7 +11,7 @@
 
 
 
-<title>Resultados - Processos Seletivos LCA</title>
+<title></title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -179,6 +182,107 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -318,18 +422,54 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Resultados - Processos Seletivos LCA</h1>
 
 </div>
 
 
-<p><br></br></p>
-<p><br></br></p>
-<p><strong>Confira os resultados dos editais de seleção em andamento:</strong> <br></br></p>
+<p><br> <br></p>
+<center>
+<p><img width="500px" src="img/iiieneat/banner.jpg"></p>
+</center>
+<p><br> <br></p>
+<p>Após 13 anos, a Liga de Ciências Atuariais trouxe de volta o Encontro Nacional de Estudantes de Atuaria.</p>
+<p>O III ENEAT foi realizado no <em>Campus</em> Avançado de Varginha da Universidade Federal de Alfenas entre os dias 23 e 27 de abril de 2018.</p>
+<p>A LCA agradece a cada participante do encontro. <strong>Muito obrigada!</strong></p>
+<p>Um agradecimento especial aos estudantes, professores e toda comunidade universitária da Unifal-MG que nos acolheu tão bem!</p>
+<p>Queremos agrader também aos nossos palestrantes e patrocinadores, por tornarem possível o retorno do ENEAT.</p>
+<p><br> <br></p>
+<div id="programacao" class="section level1">
+<h1>PROGRAMAÇÃO</h1>
+<p><br></p>
+<p><img width="500px" src="img/iiieneat/segunda.jpg"></p>
+<p><br></p>
+<p><img width="500px" src="img/iiieneat/terca.jpg"></p>
+<p><br></p>
+<p><img width="500px" src="img/iiieneat/quarta.jpg"></p>
+<p><br></p>
+<p><img width="500px" src="img/iiieneat/quinta.jpg"></p>
+<p><br></p>
+<p><img width="500px" src="img/iiieneat/sexta.png"></p>
+<p><br> <br></p>
+</div>
+<div id="anais" class="section level1">
+<h1>Anais</h1>
+<p><br></p>
+<p>A LCA agradece aos participantes por nos brindarem com trabalhos tão legais!</p>
+<p>Os anais do III Encontro Nacional de Estudantes de Atuária podem ser acessados pelo link abaixo:</p>
 <ul>
-<li><a href="https://atuaria.github.io/PDF/ResultadoEdital0022019.pdf"target="_blank"><strong>Edital Nº002/2019 - RESULTADO FINAL</strong></a></li>
+<li><a href="https://sistemas.unifal-mg.edu.br/app/caex/comum/paginas/consultaAnais.php?preae=3609"target="_blank"><strong>Anais - III ENEAT</strong></a></li>
 </ul>
-<p><br></br> <br></br></p>
+<p><br> <br></p>
+<div id="fale-conosco" class="section level2">
+<h2>Fale conosco</h2>
+<p><br></p>
+<p>Entre em contato conosco!</p>
+<ul>
+<li><a href="mailto:lca.eneat@gmail.com">lca.eneat@gmail.com</a></li>
+<li><a href="mailto:lca.faleconosco@gmail.com">lca.faleconosco@gmail.com</a></li>
+</ul>
+</div>
+</div>
 
 <center>
   <hr width="100%" size="3px">
@@ -348,6 +488,8 @@ $(document).ready(function () {
 </center>
 
 
+</div>
+</div>
 
 </div>
 
