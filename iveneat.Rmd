@@ -48,7 +48,7 @@ Nos vemos nos dias 26, 27 e 28 de setembro!
 
 Está aberto o período de submissão de trabalhos acadêmicos para o IV Encontro Nacional de Estudantes de Atuária, não fique de fora!
 
-O resumo expandido no formato PDF com tamanho mínimo de 2 páginas e máximo de 5 páginas deverá ser enviado pelo email lca.eneat@gmail.com com assunto **Submissão IV ENEAT** até o dia 1 de agosto de 2019.
+O resumo expandido no formato PDF com tamanho mínimo de 2 páginas e máximo de 5 páginas deverá ser enviado pelo email lca.eneat@gmail.com com assunto **Submissão IV ENEAT** até o dia 20 de agosto de 2019.
 
 - <a href="https://atuaria.github.io/PDF/Resumo_expandido.pdf"target="_blank">**Modelo obrigatório**</a>
 
@@ -56,7 +56,7 @@ O resumo expandido no formato PDF com tamanho mínimo de 2 páginas e máximo de
 
 A avaliação será feita por, no mínimo, dois avaiadores que atribuirão os conceitos **aprovado**, **aprovado com correção** ou **reprovado**. Haverá um curto período para correção do resumo.
 
-**O período de submissões termina no dia 1 de agosto de 2019. Não haverá prorrogação deste prazo.**
+**O período de submissões termina no dia ~~1 de agosto de 2019~~ . Prazo prorrogado até o dia 20 de agosto de 2019.**
 
 Os organizadores encorajam a submissão de artigos de pesquisa originais, relatórios de progresso de pesquisa e propostas de pesquisas futuras.
 
@@ -87,8 +87,8 @@ Trabalhos aceitos e não apresentados não serão publicados nos anais do IV ENE
 
 **DATAS IMPORTANTES**
 
-- Fim do período de submissões: 1 de agosto de 2019
-- Resultado das avaliações dos trabalhos: 20 de agosto de 2019
+- Fim do período de submissões: 20 de agosto de 2019
+- Resultado das avaliações dos trabalhos: 30 de agosto de 2019
 
 <br>
 <br>
@@ -133,7 +133,7 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado nos dias 26, 27
 
 <center>
 
-<a href="http://www.puc-rio.br"target="_blank"><img width="200px" src="img/puc-rio-logo.gif"></a>
+<a href="http://www.puc-rio.br"target="_blank"><img width="200px" src="img/iveneat/puc-rio-logo.gif"></a>
 
 <br>
 
@@ -152,7 +152,11 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado nos dias 26, 27
 
 <br>
 
-$-$
+<center>
+
+<a href="https://portal.icatuseguros.com.br/"target="_blank"><img width="300px" src="img/iveneat/icatu.png"></a>\ \ \ \ \ \ \ <a href="https://www.mirador-atuarial.com.br/"target="_blank"><img width="350px" src="img/iveneat/mirador.png"></a>
+
+</center>
 
 <br>
 <br>
@@ -186,7 +190,7 @@ $-$
 
 <center>
 
-<a href="https://www.prosperabr.com/index.php"target="_blank"><img width="200px" src="img/prospera.png"></a>
+<a href="https://www.prosperabr.com/index.php"target="_blank"><img width="220px" src="img/iveneat/prospera.png"></a>
 
 </center>
 
@@ -200,7 +204,7 @@ $-$
 
 <center>
 
-<a href="http://www.atuarios.org.br/"target="_blank"><img width="100px" src="img/iba.png"></a>
+<a href="http://www.atuarios.org.br/"target="_blank"><img width="100px" src="img/iveneat/iba.png"></a> \ \ \ \ \ \ \ <a href="http://www.arteatuarial.com.br"target="_blank"><img width="200px" src="img/iveneat/arteatuarial.jpg"></a>
 
 </center>
 
