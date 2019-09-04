@@ -8,15 +8,14 @@ source("setup_knitr.R")
 
 <center>
 
-<img width="500px" src="img/eneat_provisorio.png">
+<img width="500px" src="img/iveneat/eneat.png">
 
 </center>
 
 <br>
 <br>
 
-
-# INSCRIÇÕES 
+###INSCRIÇÕES
 
 <br>
 
@@ -41,60 +40,7 @@ Nos vemos nos dias 26, 27 e 28 de setembro!
 <br>
 <br>
 
-
-# SUBMISSÃO DE TRABALHOS
-
-<br>
-
-Está aberto o período de submissão de trabalhos acadêmicos para o IV Encontro Nacional de Estudantes de Atuária, não fique de fora!
-
-O resumo expandido no formato PDF com tamanho mínimo de 2 páginas e máximo de 5 páginas deverá ser enviado pelo email lca.eneat@gmail.com com assunto **Submissão IV ENEAT** até o dia 20 de agosto de 2019.
-
-- <a href="https://atuaria.github.io/PDF/Resumo_expandido.pdf"target="_blank">**Modelo obrigatório**</a>
-
-- <a href="https://atuaria.github.io/ENEAT/Modelos de Resumos.zip"target="_blank">**Download do modelo no formato LaTeX**</a>
-
-A avaliação será feita por, no mínimo, dois avaiadores que atribuirão os conceitos **aprovado**, **aprovado com correção** ou **reprovado**. Haverá um curto período para correção do resumo.
-
-**O período de submissões termina no dia ~~1 de agosto de 2019~~ . Prazo prorrogado até o dia 20 de agosto de 2019.**
-
-Os organizadores encorajam a submissão de artigos de pesquisa originais, relatórios de progresso de pesquisa e propostas de pesquisas futuras.
-
-Os temas de interesse incluem, mas não se limitam a:
-
-- História e futuro da Atuária
-- Previdência
-- Saúde Suplementar
-- Seguros e Resseguros
-- Demografia
-- Modelagem preditiva
-- Análise de Riscos e Ruína
-- Análise Estatística de Big Data aplicada a Gestão Atuarial
-- Métodos Estatísticos aplicados a Seguros, Saúde e Previdência
-- Inovação e tecnologia
-
-O tema abordado em seu trabalho deverá ser indicado no corpo do e-mail, bem como o nome completo do submetedor e meio alternativo de contato.
-
-Não serão aceitos trabalhos com mais de cinco autores.
-
-Cada participante poderá enviar, no máximo, dois trabalhos como autor principal (apresentador).
-
-O autor apresentador deverá estar inscrito no IV ENEAT.
-
-Trabalhos aceitos e não apresentados não serão publicados nos anais do IV ENEAT.
-
-<br>
-
-**DATAS IMPORTANTES**
-
-- Fim do período de submissões: 20 de agosto de 2019
-- Resultado das avaliações dos trabalhos: 30 de agosto de 2019
-
-<br>
-<br>
-
-
-# LOCAL E DATA
+###LOCAL E DATA
 
 <br>
 
@@ -103,29 +49,25 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado nos dias 26, 27
 <br>
 <br>
 
-# PROGRAMAÇÃO
+###PROGRAMAÇÃO
 
 <br>
 
-**PALESTRANTES CONFIRMADOS:**
-
-- [Beatriz de Souza Bernardino](http://lattes.cnpq.br/5461147196661201) - [LinkedIn](https://www.linkedin.com/in/beatriz-de-souza-bernardino-b0101169/)
-- Henrique Mazieiro - [LinkedIn](https://www.linkedin.com/in/henriquemazieiro/)
-- Italoema Sanglard - [LinkedIn](https://www.linkedin.com/in/italoema-sanglard-762367157/)
-- Letícia Doherty - [LinkedIn](https://www.linkedin.com/in/leticia-doherty/)
-- [Profª. Drª. Luísa Pimenta Terra](http://lattes.cnpq.br/8370361542589630) - [LinkedIn](https://www.linkedin.com/in/luisa-terra-b8146256/)
-- [Profª. Me. Máris Caroline Gosmman](http://lattes.cnpq.br/6150255901035347) - [LinkedIn](https://www.linkedin.com/in/m%C3%A1ris-caroline-gosmann-miba-msc-mba-16308b161/)
-- [Profª. Drª. Narcisa Maria Gonçalves dos Santos](http://lattes.cnpq.br/8007781497694239) - [LinkedIn](https://www.linkedin.com/in/narcisa-santos-4a419824/)
-- [Prof. Dr. Nikolai Valtchev Kolev](http://lattes.cnpq.br/2718343924989492) - [LinkedIn](https://www.linkedin.com/in/nikolai-kolev-89404255/)
-- [Prof. Me. Paulo Pereira Ferreira](http://lattes.cnpq.br/8656813220459898) - [LinkedIn](https://www.linkedin.com/in/paulo-ferreira-a418a54b/)
-- [Prof. Dr. Rafael Barbosa Nasser](http://lattes.cnpq.br/9503735014198416) - [LinkedIn](https://www.linkedin.com/in/rnasser/)
-- Raniere Ramos - [LinkedIn](https://www.linkedin.com/in/raniereramos/)
-- [Prof. Dr. Roberto Westenberger](http://lattes.cnpq.br/5762769221500857) - [LinkedIn](https://www.linkedin.com/in/westenr/)
+Veja a [programação](https://www.e-inscricao.com/lca/eneat#schedule-section) do IV ENEAT.
 
 <br>
 <br>
 
-# PATROCINADORES
+###PALESTRANTES
+
+<br>
+
+Conheça os [palestrantes](https://www.e-inscricao.com/lca/eneat#speakers-or-bands-section) do IV ENEAT.
+
+<br>
+<br>
+
+### PATROCINADORES
 
 <br>
 <br>
@@ -154,7 +96,7 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado nos dias 26, 27
 
 <center>
 
-<a href="https://portal.icatuseguros.com.br/"target="_blank"><img width="300px" src="img/iveneat/icatu.png"></a>\ \ \ \ \ \ \ <a href="https://www.mirador-atuarial.com.br/"target="_blank"><img width="350px" src="img/iveneat/mirador.png"></a>
+<a href="https://www.soa.org/"target="_blank"><img width="450px" src="img/iveneat/soa.png"></a>\ \ \ \ \ \ \ <a href="https://portal.icatuseguros.com.br/"target="_blank"><img width="320px" src="img/iveneat/icatu.png"></a>\ <br><br> \ <a href="https://www.mirador-atuarial.com.br/"target="_blank"><img width="380px" src="img/iveneat/mirador.png"></a>
 
 </center>
 
@@ -166,7 +108,11 @@ O IV Encontro Nacional de Estudantes de Atuária será realizado nos dias 26, 27
 
 <br>
 
-$-$
+<center>
+
+<a href="http://plurall.com.br/plurall/"target="_blank"><img width="250px" src="img/iveneat/plurall.png"></a>
+
+</center>
 
 <br>
 <br>
@@ -178,7 +124,11 @@ $-$
 <br>
 <br>
 
-$-$
+<center>
+
+<img width="150px" src="img/iveneat/vpa.png">
+
+</center>
 
 <br>
 <br>
@@ -215,7 +165,7 @@ $-$
 <br>
 <br>
 
-## Seja um patrocinador
+### SEJA UM PATROCINADOR
 
 <br>
 
@@ -228,7 +178,7 @@ $-$
 <br>
 <br>
 
-## Fale conosco
+### FALE CONOSCO
 
 <br>
 
