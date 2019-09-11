@@ -18,6 +18,8 @@ source("setup_knitr.R")
 
 - <a href="https://atuaria.github.io/PDF/ResultadoEdital0022019.pdf"target="_blank">**Edital Nº002/2019 - RESULTADO FINAL**</a>
 
+- <a href="https://atuaria.github.io/PDF/ResultadoEdital0032017_2019-1.pdf"target="_blank">**Edital Nº003/2017 (Continuado) - Setembro de 2019**</a>
+
 <br></br>
 <br></br>
 
