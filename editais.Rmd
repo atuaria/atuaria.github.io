@@ -20,7 +20,7 @@ source("setup_knitr.R")
 
 - <a href="https://atuaria.github.io/PDF/Edital0032017.pdf"target="_blank">**Edital Nº003/2017 - PROCESSO SELETIVO CONTINUADO**</a>
 
-- <a href="https://atuaria.github.io/PDF/Edital0022019.pdf"target="_blank">**Edital Nº002/2019**</a>
+- <a href="https://atuaria.github.io/PDF/Edital0012020.pdf"target="_blank">**Edital Nº001/2020**</a>
 
 <br></br>
 <br></br>

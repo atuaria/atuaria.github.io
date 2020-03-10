@@ -79,7 +79,7 @@ navbar:
       - text: "Editais"
         href: editais.html
       - text: "Inscreva-se"
-        href: 
+        href: https://forms.gle/n2wHUJ3qXdrRaGrv9
       - text: "Resultados"
         href: resultados.html
     - text: "Fale Conosco"
