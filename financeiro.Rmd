@@ -58,13 +58,13 @@ Para pagamentos realizados por meio de **depósitos, transferências ou espécie
 
 <br>
 
-Banco: Itaú (341)
+Banco: PagSeguro/PagBank (290)
 
-Agência: 3078
+Agência: 0001
 
-Conta corrente: 16616-6
+Conta corrente: 07098213-7
 
-Nome: Gustavo Salvioli da Silva
+Nome: Pablo Henrique Vieira Rabelo
 
 Observação: Envie uma cópia do comprovante de depósito para financas.lca@gmail.com informando seu nome e instituição.
 
