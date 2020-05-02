@@ -38,3 +38,6 @@ knitr::include_graphics("img/LCA_Azul.png")
 <br></br>
 
 <!-- Adicionar contador de visitas -->
+
+
+<!-- Tafera Jéssica: modificar a página incial. -->
