@@ -13,7 +13,7 @@ source("setup_knitr.R")
 <p></p>
 
 ```{r, echo=FALSE, fig.align='center', dpi = 20}
-knitr::include_graphics("img/logo_lca.png")
+knitr::include_graphics("img/LCA_Azul.png")
 ```
 
 <br></br>
