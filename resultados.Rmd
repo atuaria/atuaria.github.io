@@ -16,11 +16,11 @@ source("setup_knitr.R")
 **Confira os resultados dos editais de seleção em andamento:**
 <br></br>
 
-- <a href="https://atuaria.github.io/PDF/Edital.001.2020.1.etapa.pdf"target="_blank">**Edital Nº001/2020 - Resultado da Primeira etapa**</a>
+- <a href="https://atuaria.github.io/PDF/Edital.001.2020.1.etapa.pdf"target="_blank">**Edital Nº001/2020 - Resultado da primeira etapa**</a>
 
-- **Edital Nº001/2020 - Resultado da Segunda etapa (19 de maio de 2020)**
+- <a href="https://atuaria.github.io/PDF/Edital.001.2020.2.etapa.pdf"target="_blank">**Edital Nº001/2020 - Resultado da segunda etapa**</a>
 
-- **Edital Nº001/2020 - Resultado da Terceira etapa (30 de maio de 2020)**
+- **Edital Nº001/2020 - Resultado da terceira etapa (30 de maio de 2020)**
 
 - **Edital Nº001/2020 - RESULTADO FINAL (1 de junho de 2020)**
 
