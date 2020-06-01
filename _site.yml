@@ -63,7 +63,6 @@ navbar:
         href: 
       - text: "III ENEAT"
         href: iiieneat.html
-      - text: "----------"
       - text: "IV ENEAT"
         href: iveneat.html
     - text: "Publicações"
@@ -73,13 +72,13 @@ navbar:
       - text: "Livro 'Passe no IBA'"
         href: https://lnkd.in/d9DYB2D
       - text: "Blog da LCA"
-        href: https://blogdalca.wordpress.com
+        href: 
     - text: "Processo Seletivo"
       menu:
       - text: "Editais"
         href: editais.html
       - text: "Inscreva-se"
-        href: https://forms.gle/n2wHUJ3qXdrRaGrv9
+        href: 
       - text: "Resultados"
         href: resultados.html
     - text: "Fale Conosco"

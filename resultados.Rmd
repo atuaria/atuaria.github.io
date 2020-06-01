@@ -22,7 +22,7 @@ source("setup_knitr.R")
 
 - <a href="https://atuaria.github.io/PDF/Edital.001.2020.3.etapa.pdf"target="_blank">**Edital Nº001/2020 - Resultado da terceira etapa**</a>
 
-- **Edital Nº001/2020 - RESULTADO FINAL (1 de junho de 2020)**
+- <a href="https://atuaria.github.io/PDF/Edital.001.2020.final.pdf"target="_blank">**Edital Nº001/2020 - RESULTADO FINAL**</a>
 
 <br></br>
 <br></br>
