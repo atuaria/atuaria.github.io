@@ -178,7 +178,7 @@ p {
   display: inline-block;
   width: 70px;
   height: 25px;
-  background-image:url(../images/logoRStudio.png);
+  background-image:url(../img/logoRStudio.png);
   background-size: 100% auto;
   background-repeat: no-repeat;
   vertical-align: middle;
@@ -241,7 +241,7 @@ p {
   padding: 0px;
   margin: 0px 0px 0px 10px;
 
-  background-image: url(../images/gitHubLogo.svg);
+  background-image: url(../img/gitHubLogo.svg);
   background-repeat: no-repeat;
   background-size: 20px auto;
   background-position: center center;
@@ -312,7 +312,7 @@ p {
   background-repeat: no-repeat;
   background-position: left 8px;
   background-size: 8px 8px;
-  background-image: url(../images/link-icon.png);
+  background-image: url(../img/link-icon.png);
 }
 
 #pageContent .linkSection .articleBlurb {
@@ -565,20 +565,20 @@ p {
   margin-right: 0px;
 }
 
-#rStudioFooter .bandContent .footerLogo.twitter {
-  background-image: url(../images/twitterLogo.svg);
+#rStudioFooter .bandContent .footerLogo.instagram {
+  background-image: url(../img/instagramLogo.svg);
 }
 
 #rStudioFooter .bandContent .footerLogo.gitHub {
-  background-image: url(../images/gitHubLogo2.svg);
+  background-image: url(../img/gitHubLogo2.svg);
 }
 
 #rStudioFooter .bandContent .footerLogo.linkedIn {
-  background-image: url(../images/linkedInLogo.svg);
+  background-image: url(../img/linkedInLogo.svg);
 }
 
 #rStudioFooter .bandContent .footerLogo.facebook {
-  background-image: url(../images/facebookLogo.svg);
+  background-image: url(../img/facebookLogo.svg);
 }
 
 .screenshot {
@@ -721,7 +721,7 @@ table.table td a:only-child:active {
     display: inline-block;
     width: 30px;
     height: 30px;
-    background-image: url(../images/menuToggler.svg);
+    background-image: url(../img/menuToggler.svg);
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center center;
