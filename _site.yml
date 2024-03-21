@@ -19,77 +19,18 @@ output:
 navbar:
   title: Liga de Ciências Atuariais
   left:
-    - text: "Institucional"
+    - text: ENEAT
       menu:
-      - text: "Sobre nós"
-        href:
-      - text: "Diretoria"
-        href:
-      - text: "Conselhos"
-        href:
-      - text: "Estatuto da LCA"
-        href: estatuto.html
-      - text: "Regimentos"
-        href:
-      - text: "Atas"
-        href:
-      - text: "Ofícios"
-        href:
-      - text: "Portarias"
-        href:
-      - text: "Membros"
-        href:
-      - text: "Ex-membros"
-        href:
-      - text: "Colaboradores"
-        href:
-    - text: "Projetos"
-      menu:
-      - text: "Atuária em Foco"
-        href:
-      - text: "Atuária na Escola"
-        href:
-      - text: "Grupo de Estudos Atuariais"
-        href:
-      - text: "Informativo Atuarial"
-        href:
-      - text: "Lista de orientações"
-        href:
-      - text: "Minuto Atuarial"
-        href:
-    - text: "ENEAT"
-      menu:
-        - text: "I ENEAT"
-          href:
-        - text: "II ENEAT"
-          href:
-        - text: "III ENEAT"
+        - text: III ENEAT
           href: iiieneat.html
-        - text: "----------"
-        - text: "IV ENEAT"
+        - text: IV ENEAT
           href: iveneat.html
-    - text: "Publicações"
-      menu:
-        - text: "Portal Halley"
-          href:
-        - text: "Livro 'Passe no IBA'"
-          href:
-        - text: "Blog da LCA"
-          href:
-    - text: "Processo Seletivo"
-      menu:
-        - text: "Editais"
-          href: editais.html
-        - text: "Inscreva-se"
-          href:
-        - text: "Resultados"
-          href: resultados.html
-    - text: "Fale Conosco"
-      menu:
-        - text: "Formulário"
-          href:
+    - text: Portal Halley
+      href: https://portalhalley.atuaria.org/
+    - text: Passe no IBA
+      href: https://portalhalley.atuaria.org/      
   right:
-    - text: "IBA"
+    - text: IBA
       href: http://www.atuarios.org.br/
     - icon: fa-dollar-sign fa-lg
       href: financeiro.html
