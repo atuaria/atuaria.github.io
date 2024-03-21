@@ -1,8 +1,10 @@
 ---
+title: Liga de Ciências Atuariais
 output:
   html_document:
     toc_float: false
 ---
+
 <center> <img src="img/logoLCA.png" width="50%"> </center>
 
 A Liga de Ciências Atuariais (LCA) é uma associação científica sem fins lucrativos que teve origem na Universidade Federal de Alfenas (UNIFAL-MG) em 2016. Desde então, tem expandido sua presença para várias cidades pelo Brasil. Seus membros são compostos por estudantes e graduados interessados em Ciências Atuariais.

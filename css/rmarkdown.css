@@ -4,6 +4,10 @@ body {
 
   font-weight: normal;
   color: #404040;
+
+  text-align: justify; /* Adiciona justificação ao texto */
+
+  padding-top: -20px;
 }
 
 html, body, .footerPushDown {
@@ -274,6 +278,12 @@ p {
 #pageContent .pageTitle {
   font-size: 40px;
   font-weight: 300;
+}
+
+h1.title {
+  font-size: 38px;
+  color: Black;
+  text-align: center;
 }
 
 #pageContent .pageIntro {
