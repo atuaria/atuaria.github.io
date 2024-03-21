@@ -1,16 +1,18 @@
 ---
-title: "Liga de Ciências Atuariais"
 output:
   html_document:
     toc_float: false
 ---
-<style type="text/css">
+<center> <img src="img/logoLCA.png" width="50%"> </center>
 
-h1.title {
-  font-size: 38px;
-  color: Black;
-  text-align: center;
-}
-</style>
+A Liga de Ciências Atuariais (LCA) é uma associação científica sem fins lucrativos que teve origem na Universidade Federal de Alfenas (UNIFAL-MG) em 2016. Desde então, tem expandido sua presença para várias cidades pelo Brasil. Seus membros são compostos por estudantes e graduados interessados em Ciências Atuariais.
 
-<p> <center> Em breve. </center> </p>
+O objetivo da LCA é promover o desenvolvimento acadêmico e profissional de seus membros, bem como a divulgação da profissão de Atuário. Para alcançar esses objetivos, a LCA oferece uma variedade de atividades, incluindo palestras, cursos, workshops, grupos de estudos e eventos relacionados à Atuária. Além disso, a LCA proporciona oportunidades de estágio, parcerias com empresas e intercâmbios acadêmicos para seus membros.
+
+Uma característica importante da LCA é sua parceria com o Instituto Brasileiro de Atuária (IBA) e a Society of Actuaries (SOA). Essas parcerias fornecem aos membros da LCA acesso a recursos, networking e oportunidades de desenvolvimento profissional tanto a nível nacional quanto internacional.
+
+Os valores fundamentais da LCA incluem o compartilhamento de conhecimento, o respeito ao próximo e a busca constante pelo desenvolvimento pessoal e profissional. Todos os membros da LCA são voluntários e compartilham um ideal comum: o valor futuro atuarial. A maioria das atividades promovidas pela LCA é gratuita e aberta ao público, refletindo o compromisso da organização com o acesso ao conhecimento.
+
+A LCA também tem uma ampla gama de iniciativas, como visitas a escolas, organização de eventos de abrangência nacional, como o Encontro Nacional de Estudantes de Atuária (ENEAT) e o Passe no IBA (cursinho preparatório para o Exame de Admissão ao IBA), apoio a eventos em todo o país, como a Semana de Estatística e Atuária na UFRJ e o Simpósio de Atuária (maior evento de atuária do Nordeste), e a disponibilização de um portal de educação atuarial, o Portal Halley de Educação Atuarial.
+
+Esses esforços visam não apenas fortalecer a comunidade de Ciências Atuariais, mas também promover a importância e a relevância dessa área para o desenvolvimento econômico e social do Brasil. A LCA tem desempenhado um papel significativo na formação e capacitação de profissionais e estudantes interessados em Atuária.

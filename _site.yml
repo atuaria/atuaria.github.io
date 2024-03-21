@@ -1,5 +1,6 @@
 name: "Liga de Ciências Atuariais"
 output_dir: "docs"
+favicon: "img/favicon.ico"
 exclude:
 output:
   html_document:
@@ -15,56 +16,82 @@ output:
       in_header: include_head.html
       after_body: include_footer.html
     css: css/rmarkdown.css
-    pandoc_args: --wrap=none
 navbar:
   title: Liga de Ciências Atuariais
   left:
-    - text: "Notas de Aula"
+    - text: "Institucional"
       menu:
-      - text: "Introdução às Ciências Atuariais"
+      - text: "Sobre nós"
         href:
-      - text: "Matemática 2"
+      - text: "Diretoria"
         href:
-      - text: "Matemática Atuarial I"
+      - text: "Conselhos"
         href:
-      - text: "Matemática Atuarial II"
+      - text: "Estatuto da LCA"
+        href: estatuto.html
+      - text: "Regimentos"
         href:
-      - text: "Teoria do Risco"
+      - text: "Atas"
         href:
-    - text: "Materiais"
+      - text: "Ofícios"
+        href:
+      - text: "Portarias"
+        href:
+      - text: "Membros"
+        href:
+      - text: "Ex-membros"
+        href:
+      - text: "Colaboradores"
+        href:
+    - text: "Projetos"
       menu:
-      - text: "Introdução e revisão"
-      - text: "História do Seguro"
+      - text: "Atuária em Foco"
         href:
-      - text: "Historico Previdencia Social"
+      - text: "Atuária na Escola"
         href:
-      - text: "----------"
-      - text: "Demografia"
-      - text: "Tábuas de vida"
+      - text: "Grupo de Estudos Atuariais"
         href:
-      - text: "Tábua de mortalidade IBGE"
+      - text: "Informativo Atuarial"
         href:
-      - text: Função de Sobrevivência
+      - text: "Lista de orientações"
         href:
-      - text: "Prêmios"
+      - text: "Minuto Atuarial"
         href:
-      - text: "----------"
-    - text: "Recursos"
+    - text: "ENEAT"
       menu:
-      - text: "Recursos"
-        href:
-    - text: "Quem somos"
+        - text: "I ENEAT"
+          href:
+        - text: "II ENEAT"
+          href:
+        - text: "III ENEAT"
+          href: iiieneat.html
+        - text: "----------"
+        - text: "IV ENEAT"
+          href: iveneat.html
+    - text: "Publicações"
       menu:
-      - text: Membros
-        href:
-      - text: Liga de Ciências Atuariais
-        href: https://atuaria.org
-      - text: Laboratório de Risco Atuarial e Inovação
-        href: https://www.unifal-mg.edu.br/lar/
-    - text: "Referências"
+        - text: "Portal Halley"
+          href:
+        - text: "Livro 'Passe no IBA'"
+          href:
+        - text: "Blog da LCA"
+          href:
+    - text: "Processo Seletivo"
       menu:
-       - text:
-         href:
+        - text: "Editais"
+          href: editais.html
+        - text: "Inscreva-se"
+          href:
+        - text: "Resultados"
+          href: resultados.html
+    - text: "Fale Conosco"
+      menu:
+        - text: "Formulário"
+          href:
   right:
+    - text: "IBA"
+      href: http://www.atuarios.org.br/
+    - icon: fa-dollar-sign fa-lg
+      href: financeiro.html
     - icon: fa-github fa-lg
-      href: https://github.com/atuaria/portalhalley/
+      href: https://github.com/atuaria/
