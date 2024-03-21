@@ -1,62 +1,16 @@
 ---
-title: "LCA"
+title: "Liga de Ciências Atuariais"
 output:
   html_document:
     toc_float: false
-    includes:
-      before_body: [include_header.html, include_header_navpage.html]
 ---
+<style type="text/css">
 
-```{js, echo=FALSE}
-$("#rStudioHeader").removeClass("alwaysShrunk");
-$("#pageContent").removeClass("standardPadding");
-```
+h1.title {
+  font-size: 38px;
+  color: Black;
+  text-align: center;
+}
+</style>
 
-<!--html_preserve-->
-
-<div id="homeContent">
-  <div class="band full blue first rightText">
-    <div class="bandContent vCenter">
-      <div class="blurb">
-        <div class="tagline">Seja membro!</div>
-        <div>Faça parte da única liga de ciências atuairias do Brasil!</div>
-      </div>
-    </div>
-    <img class="imageOne" src="img/logoLCA.png"/>
-  </div>
-
-<!--   <div class="band full gray1 second leftText"> -->
-<!--     <div class="bandContent vCenter"> -->
-<!--       <div class="blurb"> -->
-<!--         <div>R Markdown documents are fully reproducible. Use a productive <a href="https://bookdown.org/yihui/rmarkdown/notebook.html">notebook interface</a> to weave together narrative text and code to produce elegantly formatted output. Use <a href="https://bookdown.org/yihui/rmarkdown/language-engines.html">multiple languages</a> including R, Python, and SQL.</div> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--     <img class="imageTwo" src="images/bandTwo2.png"/> -->
-<!--   </div> -->
-
-  <div class="band full third rightText">
-    <img class="imageThree" src="img/logoLCA.png"/>
-    <div class="bandContent vCenter">
-      <div class="blurb">
-        <div>
-          Ainda estamos reformulando nosso site. Por favor, utilize os botões abaixo para continuar.
-        </div>
-        <div class="actions">
-          <div><a href="https://webmail.atuaria.org"><button class="bigButton getStarted">Acessar e-mail</button></a></div>
-          <div><a href="mailto:contato@atuaria.org?subject=Assunto do email&cc=executivo@atuaria.org"><button class="bigButton gallery">Enviar e-mail</button></a></div>
-        </div>
-      </div>
-    </div>
-  </div>
-<!--   <div class="band full gray2 fourth leftText"> -->
-<!--     <div class="bandContent vCenter"> -->
-<!--       <div class="blurb"> -->
-<!--         <div>Need R Markdown in production? Learn how to <a href="https://docs.rstudio.com/connect/user/publishing/">publish</a> and <a href="https://docs.rstudio.com/connect/user/scheduling/">schedule</a> reports, <a href="https://docs.rstudio.com/connect/user/param-rmarkdown/">enable self-service customization</a>, and distribute beautiful emails using <a href='https://rstudio.com/products/connect'> RStudio Connect</a>. -->
-<!--         </div> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--     <img class="imageFour" src="images/band4.png"/> -->
-<!--   </div> -->
-<!-- </div> -->
-
-<!--/html_preserve-->
+<p> <center> Em breve. </center> </p>

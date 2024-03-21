@@ -1,19 +1,70 @@
-output_dir: '.'
+name: "Liga de Ciências Atuariais"
+output_dir: "docs"
+exclude:
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
-    mathjax: null
-    toc_depth: 3
+    theme: lumen
+    highlight: default
+    number_sections: false
+    toc: true
+    toc_depth: 4
     toc_float:
       collapsed: false
+      smooth_scroll: false
     includes:
-      in_header: [include_head.html]
-      before_body: include_header.html
+      in_header: include_head.html
       after_body: include_footer.html
     css: css/rmarkdown.css
     pandoc_args: --wrap=none
-
-
-
-
+navbar:
+  title: Liga de Ciências Atuariais
+  left:
+    - text: "Notas de Aula"
+      menu:
+      - text: "Introdução às Ciências Atuariais"
+        href:
+      - text: "Matemática 2"
+        href:
+      - text: "Matemática Atuarial I"
+        href:
+      - text: "Matemática Atuarial II"
+        href:
+      - text: "Teoria do Risco"
+        href:
+    - text: "Materiais"
+      menu:
+      - text: "Introdução e revisão"
+      - text: "História do Seguro"
+        href:
+      - text: "Historico Previdencia Social"
+        href:
+      - text: "----------"
+      - text: "Demografia"
+      - text: "Tábuas de vida"
+        href:
+      - text: "Tábua de mortalidade IBGE"
+        href:
+      - text: Função de Sobrevivência
+        href:
+      - text: "Prêmios"
+        href:
+      - text: "----------"
+    - text: "Recursos"
+      menu:
+      - text: "Recursos"
+        href:
+    - text: "Quem somos"
+      menu:
+      - text: Membros
+        href:
+      - text: Liga de Ciências Atuariais
+        href: https://atuaria.org
+      - text: Laboratório de Risco Atuarial e Inovação
+        href: https://www.unifal-mg.edu.br/lar/
+    - text: "Referências"
+      menu:
+       - text:
+         href:
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/atuaria/portalhalley/
